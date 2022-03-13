@@ -1,5 +1,5 @@
 [package]
-name = "typescript-react-component-generator"
+name = "file-generator"
 version = "0.1.0"
 edition = "2021"
 
